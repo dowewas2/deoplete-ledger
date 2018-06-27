@@ -1,19 +1,18 @@
-# deoplete-abook
+# deoplete-ledger
 
-`Deoplete-abook` offers asynchronous completion of email addresses in [Mutt](http://www.mutt.org/) using [abook](http://abook.sourceforge.net/) contacts stored in a plain text database.
-Inspired by [Greg Hurrell's](https://github.com/wincent) Vim screencast [#58](https://www.youtube.com/watch?v=BNnSjJOpXDk).
+`deoplete-ledger` offers asynchronous completion of alias accounts.
 
 ## Installation
 
-To install `deoplete-abook`, use your favorite [Neovim](https://neovim.io/) plugin manager.
+To install `deoplete-ledger`, use your favorite [Neovim](https://neovim.io/) plugin manager.
 
 #### Using [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
 Plug 'Shougo/deoplete.nvim', {'do': ':UpdateRemotePlugins'}
-Plug 'fszymanski/deoplete-abook'
+Plug 'fszymanski/deoplete-ledger'
 ```
 
 ## Documentation
 
-For more information, see `:help deoplete_abook.txt`.
+For more information, see `:help deoplete_ledger.txt`.
