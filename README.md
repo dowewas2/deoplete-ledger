@@ -10,7 +10,7 @@ To install `deoplete-ledger`, use your favorite [Neovim](https://neovim.io/) plu
 
 ```vim
 Plug 'Shougo/deoplete.nvim', {'do': ':UpdateRemotePlugins'}
-Plug 'fszymanski/deoplete-ledger'
+Plug 'dowewas2/deoplete-ledger'
 ```
 
 ## Documentation
